@@ -6,7 +6,8 @@
 
 
 ## Introduction:
-  COVID-19 pandemic has created more challenges for students.So to tackle this problem our Team (heaVy codeRz) took an initiative to grab all the reasources and   compile them at one place so that everyone should be benefited and get everything they want to study free of cost.
+  COVID-19 pandemic has created more challenges for students.So to tackle this problem our Team (heaVy codeRz) took an initiative to grab all the reasources and   compile 
+ them at one place so that everyone should be benefited and get everything they want to study free of cost.
   Our Motto "Developing for Better Tomorrow🤞🏻"
   
 ## Table of Contents:
@@ -23,10 +24,7 @@
 
 Team Name: heaVy codeRz
 
-* [Swapnil Nayak](https://github.com/swapnilnyk10)
-* [Shivam Pandey](https://github.com/shivampandeymnnit)
-* [Nitin Shukla](https://github.com/nitin1207)
-
+* [Abhijeet Sankala](https://github.com/a1b2hijeet)
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
